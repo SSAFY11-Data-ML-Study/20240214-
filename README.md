@@ -1,7 +1,7 @@
 # 20240214_Subway_Data
 Data Link: https://www.kaggle.com/datasets/kimjmin/seoul-metro-usage   
 
-
+### - Goals: 데이터 입출력 및 전처리 연습
 ### - Data Name: 서울 지하철 승하차 인원
 ### - Data Preview    
 archive    
